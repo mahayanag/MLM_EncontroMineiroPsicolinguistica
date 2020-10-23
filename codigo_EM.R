@@ -1,3 +1,6 @@
+## instalar e carregar pacote
+
+install.packages("lme4")
 library(lme4)
 
 ## importando
